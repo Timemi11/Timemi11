@@ -1,7 +1,7 @@
 Hi 👋 My name is ChatchawanAromtip
 ==================================
 
-Hello, I'm currently studying for a major in Computer Science. I've been interested in Web Developer, Full Stack Developer or Software Engineer.
+Hello, I'm currently studying for a major in Computer Science. I've been interesting in Web Developer, Full Stack Developer or Software Engineer.
 
 *   🌍  I'm based in NakhonPathom, Thailand
 *   ✉️  You can contact me at [momuu56@gmail.com](mailto:momuu56@gmail.com)<a href="https://www.github.com/Timemi11" target="_blank" rel="noreferrer"><img
