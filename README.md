@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chatchawan Aromtip
 ==========================================================================================================================================
 
-Hello, I'm currently studying for a major in Computer Science. I've been interested in Web Developer, Full Stack or Software Engineer.
+Hello, I'm currently studying for a major in Computer Science. I've been interested in Web Developer, Software Engineer.
 
 * 🌍  I'm based in NakhonPathom, Thailand
 * ✉️  You can contact me at [chatchawan.aromtip@gmail.com](mailto:chatchawan.aromtip@gmail.com)
