@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Hello, I'm currently studying for a major in Computer Science. I've been interested in Web Developer, Software Engineer.
 
-* 🌍  I'm based in NakhonPathom, Thailand
+* 🌍  I'm based in Thailand
 * ✉️  You can contact me at [chatchawan.aromtip@gmail.com](mailto:chatchawan.aromtip@gmail.com)
 
 ### Skills
